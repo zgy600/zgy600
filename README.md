@@ -1,4 +1,4 @@
-🎃Intro
+🎃 Intro
 - 👋 Hi, I’m @zgy600
 - 👀 I’m interested in building tools to for the research in medical AI domain. 
 - 🌱 Apart from coding, I’m currently learning practicing my skills in writing, public speaking.
