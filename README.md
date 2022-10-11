@@ -1,3 +1,4 @@
+🎃Intro
 - 👋 Hi, I’m @zgy600
 - 👀 I’m interested in building tools to for the research in medical AI domain. 
 - 🌱 Apart from coding, I’m currently learning practicing my skills in writing, public speaking.
@@ -5,7 +6,7 @@
 - 📫 How to reach me ucabgz4[AT]ucl.ac.uk.
 
 
-- 🎃 Personal research progress:
+🎃 Personal research progress:
 - 💪 Paper 1 Conceptualization 100%, Idea 70%, Experiment 50%, Writing 50%
 - 💪 Paper 2 Conceptualization 100%, Idea 20%, Experiment 0%, Writing 0%
 - 💪 Paper 3 Conceptualization 100%, Idea 50%, Experiment 40%, Writing 0%
