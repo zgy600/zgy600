@@ -7,9 +7,9 @@
 
 
 🎃 Personal research progress:
-- 💪 Paper 1 Conceptualization 100%, Idea 70%, Experiment 50%, Writing 50%
-- 💪 Paper 2 Conceptualization 100%, Idea 20%, Experiment 0%, Writing 0%
-- 💪 Paper 3 Conceptualization 100%, Idea 50%, Experiment 40%, Writing 0%
+- 💪 Project XA Conceptualization 100%, Idea 70%, Experiment 50%, Writing 50%
+- 💪 Project XB Conceptualization 100%, Idea 20%, Experiment 0%, Writing 0%
+- 💪 Project XC Conceptualization 100%, Idea 50%, Experiment 40%, Writing 0%
 
 
 
