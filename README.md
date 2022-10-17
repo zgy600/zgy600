@@ -12,7 +12,7 @@
 - 💪 Project XC Conceptualization 100%, Idea 50%, Experiment 40%, Writing 0%
 
 
-🐸 on 13rd Oct 2022 I achieved 45% of my daily goal
+🐸 on Sep 2022 I achieved 48% of my monthly goal
 
 
 <!---
