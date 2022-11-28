@@ -12,8 +12,6 @@
 - 💪 Project XC Conceptualization 100%, Idea 50%, Experiment 40%, Writing 0%
 
 
-🐸 I achieved 51% of my monthly goal in Oct 2022 
-
 
 <!---
 zgy600/zgy600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
