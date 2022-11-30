@@ -3,7 +3,7 @@
 - 👀 I’m interested in building tools to for the research in medical AI domain. 
 - 🌱 Apart from coding, I’m currently learning practicing my skills in writing, public speaking.
 - 💞️ Looking to collaborate on image analysis projects related to Ophthalmology to improve patient's healthcare.
-- 📫 How to reach me ucabgz4[AT]ucl.ac.uk.
+- 📫 How to reach me gongy.zhang[AT]gmail.com.
 
 
 🎃 Personal research progress:
