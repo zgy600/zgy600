@@ -6,12 +6,6 @@
 - 📫 How to reach me gongy.zhang[AT]gmail.com.
 
 
-🎃 Personal research progress:
-- 💪 Project XA Conceptualization 100%, Idea 70%, Experiment 50%, Writing 50%
-- 💪 Project XB Conceptualization 100%, Idea 20%, Experiment 0%, Writing 0%
-- 💪 Project XC Conceptualization 100%, Idea 50%, Experiment 40%, Writing 0%
-
-
 
 <!---
 zgy600/zgy600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
